@@ -1,0 +1,342 @@
+canonical_identifier: bkk:krp/KR6j0758/v1
+canonical_location: https://kanripo.org/bkk/KR6j0758/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛母孔雀尊經科式
+  identifiers:
+    alt_id:
+    - X74n1479
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1479.xml
+    old_id: X74n1479
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0758_000.yaml, hash: 'sha256:eb4c757803e4dae0a33707dca52f10b16fe5be9ccf85724a15c0d1259723e6a9'}
+  - {seq: 1, filename: KR6j0758_001.yaml, hash: 'sha256:aff4fcb08cbd373dae12dbb2e11ef932eb63695482b3a50598e419d256e0078b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0758_001.markers.yaml, hash: 'sha256:ba73992d2213ba428f51e8c0182a00c99709e03b82206dfff1da8d348c9401cd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 3094
+  label: 孔雀尊經科儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-2
+    span:
+    - body
+    - 757
+    - 757
+  label: 結界　持國天王降吉祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-3
+    span:
+    - body
+    - 1255
+    - 1255
+  label: 上卷圓滿保平安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-4
+    span:
+    - body
+    - 1277
+    - 1277
+  label: 中卷藥叉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-5
+    span:
+    - body
+    - 1289
+    - 1289
+  label: 掛金索
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-6
+    span:
+    - body
+    - 1328
+    - 1328
+  label: 寄生草
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-7
+    span:
+    - body
+    - 1411
+    - 1411
+  label: 清江引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-8
+    span:
+    - body
+    - 1443
+    - 1443
+  label: 浪淘沙
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-9
+    span:
+    - body
+    - 1473
+    - 1473
+  label: 七懺悔　求哀懺悔明王佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-10
+    span:
+    - body
+    - 1785
+    - 1785
+  label: 懺除罪業　五言偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-11
+    span:
+    - body
+    - 1892
+    - 1892
+  label: 四言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-12
+    span:
+    - body
+    - 1974
+    - 1974
+  label: 羅剎女　羅剎女眾降吉祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-13
+    span:
+    - body
+    - 2017
+    - 2017
+  label: 四平聲　龍王聖眾降吉祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-14
+    span:
+    - body
+    - 2056
+    - 2056
+  label: 蜜峯採華
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-15
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 清江引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-16
+    span:
+    - body
+    - 2155
+    - 2155
+  label: 金字經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-17
+    span:
+    - body
+    - 2192
+    - 2192
+  label: 採茶聲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-18
+    span:
+    - body
+    - 2222
+    - 2222
+  label: 中卷圓滿保平安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-19
+    span:
+    - body
+    - 2231
+    - 2231
+  label: 至七佛　微鉢尸如來降吉祥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-20
+    span:
+    - body
+    - 2483
+    - 2483
+  label: 星宿　入清江引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-21
+    span:
+    - body
+    - 2573
+    - 2573
+  label: 東門七宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-22
+    span:
+    - body
+    - 2605
+    - 2605
+  label: 南門七宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-23
+    span:
+    - body
+    - 2637
+    - 2637
+  label: 西門七宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-24
+    span:
+    - body
+    - 2669
+    - 2669
+  label: 北門七宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-25
+    span:
+    - body
+    - 2701
+    - 2701
+  label: 二十八宿
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-26
+    span:
+    - body
+    - 2733
+    - 2733
+  label: 九曜官星
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-27
+    span:
+    - body
+    - 2765
+    - 2765
+  label: 滿天星斗一句神仙侶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-28
+    span:
+    - body
+    - 2800
+    - 2800
+  label: 到毒藥一句毒藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-29
+    span:
+    - body
+    - 2826
+    - 2826
+  label: 三寶　入清江引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0758_X_001-mulu-30
+    span:
+    - body
+    - 3014
+    - 3014
+  label: 三卷圓滿保平安
+  type: mulu
+  level: 1
+hash: sha256:bdf445d7f705612c53c8969ee7007d8db3b9143ccdfac20162cdfb2d3460077f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

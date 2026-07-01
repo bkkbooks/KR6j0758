@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0758/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛母孔雀尊經科式
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1479.xml
+    old_id: X74n1479
+hash: sha256:eb4c757803e4dae0a33707dca52f10b16fe5be9ccf85724a15c0d1259723e6a9
