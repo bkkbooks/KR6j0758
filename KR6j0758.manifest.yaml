@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0758_000.yaml, hash: 'sha256:eb4c757803e4dae0a33707dca52f10b16fe5be9ccf85724a15c0d1259723e6a9'}
-  - {seq: 1, filename: KR6j0758_001.yaml, hash: 'sha256:aff4fcb08cbd373dae12dbb2e11ef932eb63695482b3a50598e419d256e0078b'}
+  - {seq: 1, filename: KR6j0758_001.yaml, hash: 'sha256:3ec45b6d6aaf2530f58f6e7f8c2bc050f8a7012754bfe4c619a4f5854491b82f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0758_001.markers.yaml, hash: 'sha256:ba73992d2213ba428f51e8c0182a00c99709e03b82206dfff1da8d348c9401cd'}
+  - {seq: 0, role: markers, filename: assets/KR6j0758_000.markers.yaml, hash: 'sha256:6666bd3a2f7dc5b136472fbb7b35512a7fa55bb312bd7dfd5f28915e06d6c465'}
+  - {seq: 1, role: markers, filename: assets/KR6j0758_001.markers.yaml, hash: 'sha256:eacd32d120334f249e399a5848973177c119a290ba40d3f46a16567c50b38807'}
 table_of_contents:
 - ref:
     seq: 1
@@ -336,7 +337,4 @@ table_of_contents:
   label: 三卷圓滿保平安
   type: mulu
   level: 1
-hash: sha256:bdf445d7f705612c53c8969ee7007d8db3b9143ccdfac20162cdfb2d3460077f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cd89e0a5d8df098acbfd3653410a7781a12a9e71d61d0b6e312589c38dc262da
