@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0758/v1
 canonical_location: https://kanripo.org/bkk/KR6j0758/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛母孔雀尊經科式
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0758_000.yaml, hash: 'sha256:eb4c757803e4dae0a33707dca52f10b16fe5be9ccf85724a15c0d1259723e6a9'}
-  - {seq: 1, filename: KR6j0758_001.yaml, hash: 'sha256:3ec45b6d6aaf2530f58f6e7f8c2bc050f8a7012754bfe4c619a4f5854491b82f'}
+  - {seq: 1, filename: KR6j0758_001.yaml, hash: 'sha256:1e2ba4db5ca182b255e2ab4fee1664f09298cd64cc2ff9861157ab977a16f67d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0758_000.markers.yaml, hash: 'sha256:6666bd3a2f7dc5b136472fbb7b35512a7fa55bb312bd7dfd5f28915e06d6c465'}
-  - {seq: 1, role: markers, filename: assets/KR6j0758_001.markers.yaml, hash: 'sha256:eacd32d120334f249e399a5848973177c119a290ba40d3f46a16567c50b38807'}
+  - {seq: 1, role: markers, filename: assets/KR6j0758_001.markers.yaml, hash: 'sha256:83464eb46df7b6d4b59e0552a90a2793329b687a84bd2e9a1deeebbc8032cbe0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -337,4 +337,7 @@ table_of_contents:
   label: 三卷圓滿保平安
   type: mulu
   level: 1
-hash: sha256:cd89e0a5d8df098acbfd3653410a7781a12a9e71d61d0b6e312589c38dc262da
+hash: sha256:2f33a03265af3196fb0dd781f4877e19753f66a2e18c4524448d4dee72f9d134
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
